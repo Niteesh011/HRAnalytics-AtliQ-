@@ -1,7 +1,7 @@
 # HRAnalytics-AtliQ
 Real dataset for employee presence from a company called AtliQ and perform data analysis in Power BI.
 
-![HR Analytics Dashboard](link-to-your-dashboard-image)
+![HR Analytics Dashboard](https://github.com/Niteesh011/HRAnalytics-AtliQ-/blob/main/Dashboard.png)
 
 # DAX Queries used
 // Attendance Percentage Calculation
